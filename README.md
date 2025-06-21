@@ -47,6 +47,7 @@ Wanna get involved in the London scene?
   - [Luma](https://lu.ma/londondatavis)
 - AI Signals
   - [Luma](https://lu.ma/ai-signals)
+  - [Website](https://aisignals.org.uk/)
 - TODO: Add fakedac.
 
 <br>
