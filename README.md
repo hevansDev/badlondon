@@ -53,7 +53,7 @@ Wanna get involved in the London scene?
 
 <br>
 
-Can you help maintain this list? [Edit this page](https://github.com/pastagang/badlondon/edit/main/readme.md) right now! 
+Can you help maintain this list? [Edit this page](https://github.com/pastagang/badlondon/edit/main/README.md) right now! 
 
 <br>
 
